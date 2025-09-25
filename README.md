@@ -30,7 +30,6 @@ Map and analyze IPs quickly from the command line.
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diputs-sudo&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diputs-sudo&layout=compact&theme=radical)  
 
 ---
