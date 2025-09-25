@@ -1,12 +1,12 @@
 # Hey 👋 I'm Diputs
 
-🚀 Indie Developer • Indie ML Researcher • Hacker Toolsmith  
+🚀 Indie Developer • Indie ML Researcher • Hacker Toolsmith • PyPI Developer  
 I build tools that blend **math, code, and hacking spirit** — from machine learning exploration to dev utilities.
 
 ---
 
 ## 🔧 Tech & Tools
-- **Languages:** Python, JavaScript/TypeScript, Bash  
+- **Languages:** Python, C, C++, JavaScript, Bash  
 - **ML/AI:** PyTorch, TensorFlow, scikit-learn  
 - **Tools:** Git, Docker, VSCode, Jupyter  
 - **Other interests:** CLI development, automation, and open-source collaboration  
