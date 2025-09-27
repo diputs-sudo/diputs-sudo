@@ -22,7 +22,7 @@ I build tools that blend **math, code, and hacking spirit** — from machine lea
 A modular tool for analyzing machine learning training logs and hyperparameters.  
 Helps developers and researchers gain insight into training dynamics, surface anomalies, and improve model performance.  
 
-### [Praxyshell](https://github.com/diputs-sudo/praxyshell)  (In Development)
+### [Praxshell](https://github.com/diputs-sudo/praxshell)  (In Development)
 An interactive study shell for AI.  
 Bridges **math, code, and practice** in one place — explore formulas, run demos, and launch notebooks. Built modularly, starting with AI foundations.  
 
