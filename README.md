@@ -22,7 +22,10 @@ I build tools that blend **math, code, and hacking spirit** — from machine lea
 A modular tool for analyzing machine learning training logs and hyperparameters.  
 Helps developers and researchers gain insight into training dynamics, surface anomalies, and improve model performance.  
 
-### [Praxshell](https://github.com/diputs-sudo/praxshell)  (In Development)
+### [Praxshell](https://github.com/diputs-sudo/praxshell) 
+[![PyPI](https://img.shields.io/pypi/v/praxshell)](https://pypi.org/project/praxshell/)
+[![Downloads](https://img.shields.io/pypi/dm/praxshell)](https://pypi.org/project/praxshell/)
+[![License](https://img.shields.io/pypi/l/praxshell)](https://github.com/diputs-sudo/praxshell/blob/main/LICENSE)  
 An interactive study shell for AI.  
 Bridges **math, code, and practice** in one place — explore formulas, run demos, and launch notebooks. Built modularly, starting with AI foundations.  
 
