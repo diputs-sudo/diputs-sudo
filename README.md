@@ -102,7 +102,8 @@ A lightweight command-line toolkit for quickly mapping and analyzing IP informat
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diputs-sudo&theme=holi&animation=draw)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diputs-sudo&theme=holi&animation=draw&utcOffset=-4)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=diputs-sudo&layout=compact&langs_count=20&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diputs-sudo&layout=compact&langs_count=20&theme=dark)
+
 
 ---
 
